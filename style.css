@@ -1,0 +1,46 @@
+body{margin:0;}
+
+.gl{}
+.google{
+  font-size:30px;
+   padding-top: 80px;
+  margin-right: :auto;
+margin-left: auto;
+text-align: center;}
+
+
+.G{color:blue;}
+.O{color:red;}
+.O2{color:#f7d903;}
+.L{color:green;}
+.E{color:red;}
+
+.our{ text-align: center;
+  font-size:50px;
+   margin-top:100px;
+margin-left: auto;}
+.organize{ color:blue}
+  .information{color: red;}
+    .universally{color:green;}
+      .useful{color:#f5d705;}
+
+  .pic{width:1200px;
+margin-left: auto;
+margin-right: auto;}
+.img{max-width: 100%;
+}
+.work{margin-left:70px; }
+
+.lorem{width:1200px;
+margin-left: auto;
+margin-right: auto;
+font-size: 20px;}
+
+.bud1{
+  color:white;
+  font-size: 40px;
+    padding:30px;
+    background-color: green;
+width:1200px;
+margin-left: 70px;
+text-align: center;}
